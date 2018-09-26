@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BMSLocationKit"
-  s.version      = "1.3.0"
+  s.version      = "1.3.1"
   s.summary      = "Baidu IOS Location SDK"
 
   # This description is used to generate tags and improve search results.
@@ -119,7 +119,7 @@ Pod::Spec.new do |s|
   s.frameworks = "CoreLocation", "Foundation", "UIKit", "SystemConfiguration", "AdSupport", "Security", "CoreTelephony"
 
   # s.library   = "sqlite3.0"
-  s.libraries = "sqlite3.0","stdc++.6.0.9"
+  s.libraries = "sqlite3.0"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
